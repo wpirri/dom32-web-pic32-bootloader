@@ -1,1 +1,1 @@
-# dom32-web-pic32-bootloader
+# Sistema de Domotica. Bootloader para el circuito basado en PIC32
